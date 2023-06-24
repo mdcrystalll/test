@@ -32,7 +32,7 @@ public class Main {
                         "   a) An, a\n" +
                         "   b) A, a\n" +
                         "   c) The, the\n" +
-                        "   d) No article needed\n"
+                        "   d) No article neede\n"
         };
 
         String[] correctAnswers = {"b", "b", "b", "d", "c"};
